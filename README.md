@@ -1,5 +1,5 @@
 # EasyI2C
-EasyI2C for BananaPi / RasberryPi (& more) to Control I2C Bus + I2C LCD
+EasyI2C is made for a BananaPi or RasberryPi (& more). It allows to easily control the I2C Bus and stuff like an I2C LCD
 
 Its a Wrapper! Using: i2c-bus
 
