@@ -7,6 +7,7 @@ Its a Wrapper! Using: i2c-bus
 
     npm i easyi2c
     
+https://www.npmjs.com/package/easyi2c
 ## Usage
 ```javascript
 var EasyI2C = require("easyi2c");
