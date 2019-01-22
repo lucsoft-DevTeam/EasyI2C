@@ -1,5 +1,5 @@
-# EasyI2C
-EasyI2C is made for a BananaPi or RasberryPi (& more). It allows to easily control the I2C Bus and stuff like an I2C LCD
+![EasyI2C](https://github.com/lucsoft-DevTeam/EasyI2C/blob/master/EasyI2C.png?raw=true)
+> EasyI2C is made for Singelboard Computers like BananaPi or RasberryPi. Supporting I2C-LCD; I2C-PN532 (RFID, NFC)
 
 Its a Wrapper! Using: i2c-bus
 
